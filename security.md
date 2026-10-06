@@ -1,3 +1,3 @@
-1. The inteneded users of my code and data is myself and the professor. /
-2. If the code/data fell into the wrong hands, I do not think there would be immediated security risks. There is data under the mod06_data folder which contains names, age, zip, and gender, but is probably fake data and even if it was connected to real people, gender/zip/age can be found easily from a google search, so it is not really private. / 
+1. The intended users of my code and data is myself and the professor. /
+2. If the code/data fell into the wrong hands, I do not think there would be immediate security risks. There is data under the mod06_data folder which contains names, age, zip, and gender, but is probably fake data and even if it was connected to real people, gender/zip/age can be found easily from a google search, so it is not really private. / 
 3. I have a CODEOWNERS file, which lists my github account as well as the professors github account. In addition to this, I have uploaded a ruleset onto github which does not allow deletion of the main branch and requires pull requests.
