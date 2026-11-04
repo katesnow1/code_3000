@@ -16,3 +16,7 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+
+Homework 9:
+I will be transparent about the use of someone's personal data. Given that my work in the future could possibly work with customer's private data such as information relating to health, financials, location, family, etc., it is critical that this information stays protected and the customers knows how/why we are using it. I believe it is increbility important for everyone's data to be protected and remain out of the hands of malicious actors. I will do this by ensuring that all data is securely stored, with defensive measures in place to prevent attackers from accessing it. Furthermore, customers will be informed of how their data is utilized and communication between the customer and company will be transparent.
